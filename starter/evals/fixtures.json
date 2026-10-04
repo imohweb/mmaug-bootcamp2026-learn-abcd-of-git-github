@@ -1,0 +1,5 @@
+[
+  {"text": "This is good", "expected": "positive"},
+  {"text": "This is bad", "expected": "negative"},
+  {"text": "The app exists", "expected": "neutral"}
+]

@@ -1,0 +1,23 @@
+name: Workbook bug
+description: Report an incorrect command, broken lab step or fixture problem.
+title: "[Workbook bug]: "
+body:
+  - type: input
+    id: lab
+    attributes:
+      label: Lab or document
+      placeholder: "Lab 4, step 3"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps, expected result and actual result
+      description: Do not include tokens, personal data or private repository contents.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "OS, shell, Git, gh and Python versions"

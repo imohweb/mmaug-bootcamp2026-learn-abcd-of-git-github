@@ -1,0 +1,17 @@
+name: Workbook improvement
+description: Suggest an improvement to a beginner exercise.
+title: "[Workbook improvement]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Learner need
+      description: What should become clearer or easier?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Proposed improvement and acceptance criteria
+    validations:
+      required: true
