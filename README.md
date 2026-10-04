@@ -6,6 +6,12 @@ Participant workbook for the **MMAUG AI & DevOps Bootcamp**.
 
 This public repository contains the short exercises from the presentation, expanded into instructions you can follow independently. It is a teaching resource, not the repository you will push your practice branches to.
 
+## Presentation slides
+
+[View or download the participant slides (PDF)](docs/MMAUG_ABCD_Git_GitHub_Participant.pdf).
+
+The 31-slide presentation includes a comparison of GitHub, Azure Repos, GitLab and Bitbucket on slide 4. This participant edition excludes presenter notes and the hidden speaker-only command appendix.
+
 ## Before you start
 
 - Install [Git](https://git-scm.com/downloads), [GitHub CLI (`gh`)](https://cli.github.com), [VS Code](https://code.visualstudio.com/) and Python **3.12 or newer**.
