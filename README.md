@@ -2,6 +2,8 @@
 
 Participant workbook for the **MMAUG AI & DevOps Bootcamp**.
 
+**Presenter:** Imoh Etuk | Microsoft MVP | Senior Azure Architect
+
 **A — Acquire the basics · B — Branch safely · C — Collaborate · D — Deliver confidently**
 
 This public repository contains the short exercises from the presentation, expanded into instructions you can follow independently. It is a teaching resource, not the repository you will push your practice branches to.
